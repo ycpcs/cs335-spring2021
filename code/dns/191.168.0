@@ -1,0 +1,12 @@
+$TTL 3D
+@       IN      SOA     ns.cs335.com. admin.cs335.com. (
+                1
+                8H
+                2H
+                4W
+                1D)
+@       IN      NS      ns.cs335.com.
+
+101     IN      PTR     www.cs335.com.
+102     IN      PTR     mail.cs335.com.
+10      IN      PTR     ns.cs335.com.

@@ -1,0 +1,15 @@
+$TTL 3D
+@	IN	SOA	ns.cs335.com. admin.cs335.com. (
+		1	  ; Serial
+		8H	; Refresh
+		2H	; Retry
+		4W	; Expire
+		1D)	; Minimum
+
+@	IN	NS	ns.cs335.com.		; Address of nameserver
+@	IN	MX	10 mail.cs335.com.	; Primary Mail Exchanger
+
+www	IN	A	191.168.0.101			; Address of www.cs335.com
+mail	IN	A	191.168.0.102		; Address of mail.cs335.com
+ns	IN	A	191.168.0.10			; Address of ns.cs335.com
+*.cs335.com.	IN	A 191.168.0.100	; Address for other URL in the cs335.com domain
