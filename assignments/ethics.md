@@ -18,7 +18,7 @@ While these are an integral part of a course on Computer Security, applying them
 The existence of a security hole is no excuse. These issues concern not only professional ethics, but also YCP policy and state and federal law. If there is any question in your mind about what conduct is allowable, contact the instructor first.
 
 Acting lawfully and ethically is your responsibility. Carefully read the Computer Fraud and Abuse Act [CFAA]( http://uscode.house.gov/view.xhtml?req=(title:18%20section:1030%20edition:prelim)), a federal statute that broadly criminalizes computer intrusion. This is one of several US laws that govern “hacking.”
-Cyber Criminals are hunted down by [FBI](https://www.fbi.gov/investigate/cyber), [Secret Service](https://www.secretservice.gov/investigation/#cyber), [DOJ](https://www.justice.gov/criminal-ccips) and many more.
+Cyber Criminals are hunted down by [FBI](https://www.fbi.gov/investigate/cyber), [Secret Service](https://www.secretservice.gov/investigation/cyber), [DOJ](https://www.justice.gov/criminal-ccips) and many more.
 
 Understand what the law prohibits — you don’t want to end up like:
 - [Albert Gonzalez](https://www.justice.gov/opa/pr/leader-hacking-ring-sentenced-massive-identity-thefts-payment-processor-and-us-retail) gets 20 years for hacking TJX Companies and Heartland Payment Systems.
@@ -27,7 +27,7 @@ Understand what the law prohibits — you don’t want to end up like:
 - [Sarah Palin E-mail Prankster](https://www.wired.com/2010/11/palin-hacker-sentenced/) sentenced to 1 Year in Custody.
 - [Samy Kamkar](https://www.scmagazine.com/home/security-news/myspace-superworm-creator-sentenced-to-probation-community-service/) sentenced to three years' probation with only one computer and no use of internet, 90 days' community service, and $15,000–$20,000 USD in restitution.
 
-Please review the college’s policy on [Acceptable Use](https://itkb.ycp.edu/article.php?id=1068) for guidelines concerning proper use of information technology.
+Please review the college’s policy on [Acceptable Use](https://ltshelp.ycp.edu/policies) for guidelines concerning proper use of information technology.
 
 As a member of the College, you are required to abide by these policies.
 

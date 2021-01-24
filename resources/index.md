@@ -82,7 +82,7 @@ System Utilities
 
 API Development
 ------------------------------------
-- [Postman](https://www.getpostman.com/]) API development environment.
+- [Postman](https://www.getpostman.com/) API development environment.
 - [Fiddler](https://www.telerik.com/fiddler) is free web debugging proxy for any browser, system or platform.
 - [A RESTful Tutorial](https://www.restapitutorial.com/).
 
