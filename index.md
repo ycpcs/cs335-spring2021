@@ -37,5 +37,5 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 
 <sup>*</sup> Optional
 -->
-* **Feb 03** &mdash; [Ethics](assignments/ethics.html) Due
-* **Feb 01** &mdash; Welcome back!
+* **Feb 04** &mdash; [Ethics](assignments/ethics.html) Due
+* **Feb 02** &mdash; Welcome back!

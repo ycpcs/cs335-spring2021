@@ -4,13 +4,13 @@ course_number: CS335
 title: "Final Project"
 ---
 
-Proposal: due **Thursday, Apr 23<sup>th</sup>** by 11:59 PM
+Proposal: due **Thursday, Apr 15<sup>th</sup>** by 11:59 PM
 
-Code and report: due **Thursday, May 07<sup>th</sup>** by 11:59 PM
+Code and report: due **Thursday, May 06<sup>th</sup>** by 11:59 PM
 
 Presentations:
--  **Thursday, May 07<sup>th</sup>, 6:00 &ndash; 7:15 PM**
--  **Tuesday, May 12<sup>th</sup>, 7:00 &ndash; 9:00 PM**
+-  **Thursday, May 06<sup>th</sup>, 6:00 &ndash; 7:15 PM**
+-  **Tuesday, May 11<sup>th</sup>, 7:00 &ndash; 9:00 PM**
 
 ### Introduction
 
@@ -23,11 +23,11 @@ The intent of the final project is to provide an opportunity to investigate a pa
 The topic will be accompanied by a student led class discussion about the various aspects of the issue.
 You will be required to provide the instructor with several relevant articles and/or websites prior to your discussion period for distribution to the class.
 
-You should discuss your project idea with me no later than **Tuesday, April 7<sup>th</sup>**.
+You should discuss your project idea with me no later than **Tuesday, April 1<sup>st</sup>**.
 
 ### General Topic Ideas
 
-- Any of the [SEED](http://www.cis.syr.edu/~wedu/seed/labs.html) Labs we did not cover
+- Any of the [SEED](https://seedsecuritylabs.org/Labs_16.04/) Labs we did not cover
 - Encrypted File System
 - Hacking Bluetooth
 - Compile Time Randomization

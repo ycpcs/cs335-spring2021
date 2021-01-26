@@ -46,7 +46,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 12 | Apr 22 | PKI | CIS: Ch 24 | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
 > | | | |
 > 13 | Apr 27 | [Quiz 2](../assignments/quiz2.html) | |
-> 13 | Apr 29 | Cyber Attack/Threat Presentations | |
+> 13 | Apr 29 | Cybersecurity Research Presentations | |
 > | | | |
 > 14 | May 04 | Guest Speaker | |
 > 14 | May 06 | Course Wrap Up | Project Demo |

@@ -21,6 +21,8 @@ Acting lawfully and ethically is your responsibility. Carefully read the Compute
 Cyber Criminals are hunted down by [FBI](https://www.fbi.gov/investigate/cyber), [Secret Service](https://www.secretservice.gov/investigation/cyber), [DOJ](https://www.justice.gov/criminal-ccips) and many more.
 
 Understand what the law prohibits — you don’t want to end up like:
+- [Audrey Strauss](https://www.justice.gov/usao-sdny/pr/russian-hacker-sentenced-12-years-prison-involvement-massive-network-intrusions-us) was sentenced to 12 years for JP Morgan Chase data breach.  
+- [Onur Kopçak](https://www.dailysabah.com/turkey/2016/01/10/young-hacker-sentenced-to-record-334-years-in-prison-in-mass-bank-fraud-in-turkey) gets 334 years, 7 months and 10 days on charges related to bank and identity fraud.
 - [Albert Gonzalez](https://www.justice.gov/opa/pr/leader-hacking-ring-sentenced-massive-identity-thefts-payment-processor-and-us-retail) gets 20 years for hacking TJX Companies and Heartland Payment Systems.
 - [Roman Seleznev](https://www.justice.gov/opa/pr/russian-cyber-criminal-sentenced-14-years-prison-role-organized-cybercrime-ring-responsible) was sentenced to 27 years' imprisonment for running Organized Cybercrime Ring.
 - [Max Butler](https://archives.fbi.gov/archives/pittsburgh/press-releases/2010/pt021210b.htm) Receives 13-Year Prison Sentence for identity theft.
