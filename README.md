@@ -14,7 +14,7 @@ Unless indicated otherwise, all of the materials on this website
 are open source, and may be used, modified, and redistributed
 under the terms of the [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license.
 
-This website is a git repository hosted on [github](https://github.com): <https://github.com/ycpcs/cs330-fall2021>
+This website is a git repository hosted on [github](https://github.com): <https://github.com/ycpcs/cs335-spring2021>
 
 Please feel to use anything here that you find useful,
 and let us know if you have any comments or suggestions!
