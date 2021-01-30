@@ -44,6 +44,8 @@ The topic will be accompanied by a student led class discussion about the variou
    - Robert Tappan Morris
 - Social engineering fraud
 - Zero-day Exploits
+- Deepfake
+- Face and biometric recognition 
 
 * Anonymous and activists often cross paths.
 

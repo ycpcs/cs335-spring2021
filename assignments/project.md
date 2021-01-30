@@ -36,6 +36,8 @@ You should discuss your project idea with me no later than **Tuesday, April 1<su
 - Searchable encryption
 - SDN Security
 - QR Codes Security
+- Identity spoofing
+- Blockchain
 - Reproducing previously published topic to find interesting new directions developing a new security mechanism/system *
   - [Journal of Cybersecurity](https://academic.oup.com/cybersecurity)
   - [IEEE Cybersecurity](https://cybersecurity.ieee.org/)
