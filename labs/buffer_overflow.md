@@ -12,7 +12,8 @@ The **BUF SIZE** value for this lab is: **108**.
 
 [Buffer Overflow.pdf](Buffer_Overflow.pdf)
 
-Additional information on the SEED project [site](http://www.cis.syr.edu/~wedu/seed/Labs_16.04/Software/Buffer_Overflow/).
+Additional information on the SEED project [site](https://seedsecuritylabs.org/Labs_16.04/Software/Buffer_Overflow/).
+[Smashing The Stack For Fun And Profit](https://insecure.org/stf/smashstack.html), Aleph One
 
 ### Source Files
 
