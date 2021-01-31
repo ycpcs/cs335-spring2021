@@ -13,6 +13,12 @@ Lab Setup
 - [Oracle® VM VirtualBox](https://www.virtualbox.org/wiki/Downloads) is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use. User Manual can be found [here](https://www.virtualbox.org/manual/).
 
 - Pre-built Virtual Machine [SEED Ubuntu 16.04 VM](https://drive.google.com/file/d/12l8OO3PXHjUsf9vfjkAf7-I6bsixvMUa/view?usp=sharing).
+  - Primary Account:
+    - User ID: seed
+    - Password: dees
+  - Root account:
+    - User ID: root
+    - Password: seedubuntu
 
 - Follow [Run SEED VM on VirtualBox](https://seedsecuritylabs.org/Labs_16.04/Documents/SEEDVM_VirtualBoxManual.pdf) to load the image into VirtualBox. This includes the account and password information, list of software and servers installed, and configuration.
 
@@ -39,7 +45,7 @@ Cheat Sheets
 - ```dig -x IP``` does reverse lookup of _IP_ address.  
 
 #### User Management
-- Local user information is stored in the /_etc/passwd_ file. Get the list of all users using ```cat /etc/passwd```. The fields are delimited by colons and contain the following:
+- Local user information is stored in the _/etc/passwd_ file. Get the list of all users using ```cat /etc/passwd```. The fields are delimited by colons and contain the following:
   - User name
   - Encrypted password (x means that the password is stored in the ```/etc/shadow``` file)
   - User ID number (UID)
@@ -47,6 +53,8 @@ Cheat Sheets
   - Full name of the user (GECOS)
   - User home directory
   - Login shell (defaults to /bin/bash)
+    - If you need a user account with a password for authentication with a system, but do not require an interactive shell
+    - _/sbin/nologin_ and _/bin/false_ if the user tries to log in to the system, the nologin shell closes the connection of the user.
 - ```id``` display the user and group ids of your current user.
 - ```groupadd attacker``` created a group named _attacker_.
 - ```useradd -c "John Doe" -m john``` creates an account names _john_ with a comment of _John Doe_.
