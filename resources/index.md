@@ -35,13 +35,16 @@ Network Connectivity
   - Netcat cheat sheet [pocket reference guide](docs/netcat_cheat_sheet_v1.pdf)
 - If you need to scan the open network interface on a remote system, nothing is better than [Nmap](https://nmap.org/).
 - _netdiscover_ is a network address discovering tool, install by using `sudo apt-get install netdiscover`.
+- [Masscan](https://github.com/robertdavidgraham/masscan/) is the world's fastest internet port scanner.
 
-Web Testing
+Web Testing (Web Proxies)
 ------------------------------------
 - [Burp or Burp Suite](https://portswigger.net/burp) is the gold standard of commercial web application–testing tools.
 - OWASP Zed Attack Proxy [ZAP](https://www.zaproxy.org/).
 - [w3af](http://w3af.org/) is a Web Application Attack and Audit Framework.
 - [mitmproxy](https://mitmproxy.org/) is an interactive, SSL/TLS-capable intercepting proxy with a console interface for HTTP/1, HTTP/2, and WebSockets.
+- [Charles](https://www.charlesproxy.com/) is an HTTP proxy, an HTTP
+monitor, and a reverse proxy. It enables you to view HTTPS traffic.
 
 Vulnerability Exploitation
 ------------------------------------
