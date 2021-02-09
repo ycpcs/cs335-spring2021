@@ -28,4 +28,6 @@ void main()
 	dup2(sockfd, 0);
 	scanf("%s", data);
 	printf("%s\n", data);
+
+	close(sockfd);
 }
