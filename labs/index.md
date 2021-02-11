@@ -9,9 +9,10 @@ This page links to lab assignments.
 > Lab | File | Due
 > ---------- | ---- | ---
 > Lab Setup | [Setup](setup.html) | n/a
+> Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 21
 
 <!--
-> Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 16
+>
 > Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Feb 23
 > Packet Sniffing and Spoofing | [Description and Tasks](sniff_spoof.html) | Mar 01
 > TCP Attack | [Description and Tasks](tcp_attack.html) | Mar 15
