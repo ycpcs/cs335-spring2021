@@ -8,7 +8,7 @@ title: Lab - Buffer Overflow
 
 ### Lab Description and Tasks
 
-The **BUF SIZE** value for this lab is: **108**.
+The **BUF SIZE** value for this lab is: **212**.
 
 [Buffer Overflow.pdf](Buffer_Overflow.pdf)
 
