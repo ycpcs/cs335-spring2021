@@ -10,7 +10,7 @@
  * won't be able to use the solutions from the past.
  * Suggested value: between 0 and 400  */
 #ifndef BUF_SIZE
-#define BUF_SIZE 108
+#define BUF_SIZE 212
 #endif
 
 int bof(char *str)
