@@ -8,6 +8,10 @@
 #define PACKET_LEN   1500
 
 /* Ethernet header */
+/*
+	ether_type are defined in
+	https://www.iana.org/assignments/ieee-802-numbers/ieee-802-numbers.xhtml
+*/
 struct ethheader {
 	u_char  ether_dhost[ETHER_ADDR_LEN];    /* destination host address */
 	u_char  ether_shost[ETHER_ADDR_LEN];    /* source host address */
