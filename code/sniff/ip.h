@@ -26,7 +26,7 @@ struct ipheader {
 	unsigned short int iph_ident; //Identification
 	unsigned short int iph_flag : 3, iph_offset : 13; //Flags and Fragmentation offset
 	unsigned char      iph_ttl; //Time to Live
-	unsigned char      iph_protocol; //Type of the upper-level protocol
+	unsigned char      iph_protocol; //Type of the upper-level protocol, defined at RFC1700
 	unsigned short int iph_chksum; //IP datagram checksum
 	struct  in_addr    iph_sourceip; //IP Source address (In network byte order)
 	struct  in_addr    iph_destip;//IP Destination address (In network byte order)
