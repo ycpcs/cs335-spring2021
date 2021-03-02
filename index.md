@@ -29,7 +29,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * **Mar 20** &mdash; [Attacks on Local DNS](labs/dns_attack.html) Lab Due
 * **Mar 17** &mdash; [Quiz 1](assignments/quiz1.html) (Software & Network Security)
 * **Mar 15** &mdash; [Attacks on TCP](labs/tcp_attack.html) Lab Due
-* **Mar 01** &mdash; [Packet Sniffing and Spoofing](labs/sniff_spoof.html) Lab Due
+
 * **Feb 23** &mdash; [Buffer Overflow](labs/buffer_overflow.html) Attack Lab Due
 * **Jan 28** &mdash; [Ethics](assignments/ethics.html) Due
 * **Jan 23** &mdash; Welcome back!
@@ -40,6 +40,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * **May 06** &mdash; [Final Project](assignments/project.html) Report Due
 * **Apr 29** &mdash; [Cybersecurity Research Project](assignments/cybercrime.html) Report Due
 * **Apr 15** &mdash; [Final Project](assignments/project.html) Proposal Due
+* **Mar 16** &mdash; [Packet Sniffing and Spoofing](labs/sniff_spoof.html) Lab Due
 * **Mar 04** &mdash; [Buffer Overflow](labs/buffer_overflow.html) Attack Lab Due
 * **Feb 21** &mdash; [Shellshock](labs/shellshock.html) Attack Lab Due
 * **Feb 04** &mdash; [Ethics](assignments/ethics.html) Due
