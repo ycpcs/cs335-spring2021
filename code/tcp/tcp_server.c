@@ -12,10 +12,10 @@ void main() {
 	socklen_t client_len = sizeof(client);
 	char buf[512];
 
-	/* Step 1: Create a socket */
+	// Step 1: Create a socket
 	int sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
 
-	/* Step 2: Bind to a port number */
+	// Step 2: Bind to a port number
 	memset((char*)&server, 0, sizeof(server));
 	server.sin_family = AF_INET;
 	server.sin_addr.s_addr = htonl(INADDR_ANY);
@@ -25,13 +25,13 @@ void main() {
 		perror("ERROR on binding");
 	}
 
-	/* Step 3: Listen for incomming connection */
+	// Step 3: Listen for incomming connection
 	listen(sock, 5);
 
-	/* Step 4: Accept a connection request */
+	// Step 4: Accept a connection request
 	int client_sock = accept(sock, (struct sockaddr *)&client, &client_len);
 
-	/* Step 5: Receive the data */
+	// Step 5: Receive the data
 	int buf_len = sizeof(buf);
 	bzero(buf, buf_len);
 
@@ -39,7 +39,7 @@ void main() {
 
 	printf("Received: %s\n", buf);
 
-	/* Close the connection */
+	// Close the connection
 	close(sock);
 	close(client_sock);
 }

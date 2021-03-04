@@ -19,7 +19,7 @@ Passive Capture
 traffic on Windows. *Retired on November 25, 2019.*
 - [TCPDump & libpcap](http://www.tcpdump.org/) is a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture, and it's windows implementation [WinPcap](https://www.winpcap.org/).
   - Programming with [pcap](http://www.tcpdump.org/pcap.htm) by Tim Carstens.
-- [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** is a nwtwork _toolbox_ for network administrators and network hackers.
+- [netwox](http://www.cis.syr.edu/~wedu/Teaching/cis758/netw522/netwox-doc_html/) is a **netw**ork toolb**ox** is a network _toolbox_ for network administrators and network hackers.
 - [netwib](http://www.cis.syr.edu/~wedu/seed/Labs/Lab_Setup/netw522/) is a <b>netw</b>ork l<b>ib</b>rary is a network _library_, for network administrators and network hackers.
   - netwox already contains several tools using the netwib network library.
 - [netwag](http://www.cis.syr.edu/~wedu/seed/Labs/Lab_Setup/netw522/netwag-doc_html/) is a graphical front end for netwox.

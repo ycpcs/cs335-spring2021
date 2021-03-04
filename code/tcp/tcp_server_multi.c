@@ -13,10 +13,10 @@ void main() {
 	socklen_t client_len = sizeof(client);
 	char buf[512];
 
-	/* Step 1: Create a socket */
+	// Step 1: Create a socket
 	int sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
 
-	/* Step 2: Bind to a port number */
+	// Step 2: Bind to a port number
 	memset((char*)&server, 0, sizeof(server));
 	server.sin_family = AF_INET;
 	server.sin_addr.s_addr = htonl(INADDR_ANY);
@@ -26,21 +26,22 @@ void main() {
 		perror("ERROR on binding");
 	}
 
-	/* Step 3: Listen for incomming connection */
+	// Step 3: Listen for incomming connection
 	listen(sock, 5);
 	int buf_len = sizeof(buf);
 
 	int client_sock;
 	while (1) {
-		/* Step 4: Accept a connection request */
+		// Step 4: Accept a connection request
 		client_sock = accept(sock, (struct sockaddr *)&client, &client_len);
 
 		printf("Connected to: %s\n", inet_ntoa(client.sin_addr));
 
 		if (fork() == 0) {
+			// The child process
 			close(sock);
 
-			/* Step 5: Recieve the data */
+			// Step 5: Recieve the data
 			bzero(buf, buf_len);
 			recv(client_sock, buf, buf_len, 0);
 
@@ -48,9 +49,11 @@ void main() {
 			close(client_sock);
 			return;
 		} else {
+			// The parent process
 			close(client_sock);
 		}
 	}
-	/* Step 6: Close the connection */
+
+	// Step 6: Close the connection
 	close(sock);
 }

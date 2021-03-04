@@ -12,7 +12,7 @@ void main() {
 	// Step 1: Create a network socket
 	int sock = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP);
 
-	// Step 2: Provide information about destination.
+	// Step 2: Provide information about destination
 	memset((char*)&dest_info, 0, sizeof(dest_info));
 	dest_info.sin_family = AF_INET;
 	dest_info.sin_addr.s_addr = inet_addr("10.0.2.5");
@@ -24,5 +24,6 @@ void main() {
 	// Step 4: Send out the packet.
 	send(sock, data, strlen(data), 0);
 
+	// Close the connection
 	close(sock);
 }
