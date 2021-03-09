@@ -12,9 +12,10 @@ This page links to lab assignments.
 > Shellshock Attack Lab | [Description and Tasks](shellshock.html) | Feb 21
 > Buffer Overflow Attack Lab | [Description and Tasks](buffer_overflow.html) | Mar 04
 > Packet Sniffing and Spoofing | [Description and Tasks](sniff_spoof.html) | Mar 16
+> TCP Attack | [Description and Tasks](tcp_attack.html) | Mar 21
 
 <!--
-> TCP Attack | [Description and Tasks](tcp_attack.html) | Mar 15
+
 > Local DNS Attack | [Description and Tasks](dns_attack.html) | Mar 20
 > Cross-Site Request Forgery (CSRF) Attack | [Description and Tasks](csrf_attack.html) | Mar 31
 > Cross-Site Scripting (XSS) Attack | [Description and Tasks](xss_attack.html) | Apr 12
