@@ -28,7 +28,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 6 | Mar 11 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | [Local DNS Attack Lab](../labs/dns_attack.html)
 > | | | |
 > 7 | Mar 16 | DNS Security | CIS: Ch 18 |
-> 7 | Mar 18 | [Quiz 1](../assignments/quiz1.html) | |
+> 7 | Mar 18 | Quiz 1 [sample]](../assignments/quiz1.html) | |
 > | | | |
 > 8 | Mar 23 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > 8 | Mar 25 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
@@ -45,7 +45,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 12 | Apr 20 | [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf) | CIS: Ch 24 |
 > 12 | Apr 22 | PKI | CIS: Ch 24 | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
 > | | | |
-> 13 | Apr 27 | [Quiz 2](../assignments/quiz2.html) | |
+> 13 | Apr 27 | Quiz 2 [sample](../assignments/quiz2.html) | |
 > 13 | Apr 29 | Cybersecurity Research Presentations | |
 > | | | |
 > 14 | May 04 | Guest Speaker | |
