@@ -130,6 +130,7 @@ Penetration Testing Platforms
 - The [wargames](https://overthewire.org/wargames/) offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 - [We Chall](http://www.wechall.net) offers computer-related problems and links to other challenges.
 - [Google Gruyere](https://google-gruyere.appspot.com/) - Web Application Exploits and Defenses
+- [247CTF](https://247ctf.com/) The game never stops
 
 Exploit Databases
 -----------------------------------
