@@ -28,7 +28,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 6 | Mar 11 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | [Local DNS Attack Lab](../labs/dns_attack.html)
 > | | | |
 > 7 | Mar 16 | DNS Security | CIS: Ch 18 |
-> 7 | Mar 18 | Quiz 1 [sample]](../assignments/quiz1.html) | |
+> 7 | Mar 18 | Quiz 1 [sample](../assignments/quiz1.html) | |
 > | | | |
 > 8 | Mar 23 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > 8 | Mar 25 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
