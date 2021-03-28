@@ -26,7 +26,7 @@ This page contains code snippets regularly used in class.
   - ```sudo apt-get install libssl-dev```
   - ```wget https://www.openwall.com/john/k/john-1.9.0-jumbo-1.tar.xz```
   - ```tar -xvf ./john-1.9.0-jumbo-1.tar.xz```
-  - ```cd john-1.8.0-jumbo-1/src```
+  - ```cd john-1.9.0-jumbo-1/src```
   - ```./configure```
   - ``` make -s clean && make -sj4```
 
@@ -37,9 +37,9 @@ This page contains code snippets regularly used in class.
   - ```sudo snap install john-the-ripper```
 
 - Install THC-Hydra
-  - ```wget https://github.com/vanhauser-thc/thc-hydra/archive/v9.0.tar.gz```
-  - ```tar -xvf v9.0.tar.gz```
-  - ```cd thc-hydra-9.0```
+  - ```wget https://github.com/vanhauser-thc/thc-hydra/archive/v9.1.tar.gz```
+  - ```tar -xvf v9.1.tar.gz```
+  - ```cd thc-hydra-9.1```
   - ```./configure```
   - ```make```
   - ```sudo make install```

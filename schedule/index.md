@@ -31,16 +31,16 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 7 | Mar 18 | Quiz 1 [sample](../assignments/quiz1.html) | |
 > | | | |
 > 8 | Mar 23 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
-> 8 | Mar 25 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
+> 8 | Mar 25 | Password Cracking - Hands On | |
 > | | | |
-> 9 | Mar 30 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |
-> 9 | Apr 01 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | [XSS Attack Lab](../labs/xss_attack.html)
+> 9 | Mar 30 | [Cross-Site Request Forgery](../slides/10_Web_CSRF.pdf) | CIS: Ch 10 | [CSRF Attack Lab](../labs/csrf_attack.html)
+> 9 | Apr 01 | Cross-Site Request Forgery | [CSRF Exploitation and Prevention](papers/csrf.pdf) |
 > | | | |
-> 10 | Apr 06 | Cross-Site Scripting cont. | CIS: Ch 11 |
-> 10 | Apr 08 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) | CIS: Ch 12 | [SQL Injection Attack Lab](../labs/sql_attack.html)
+> 10 | Apr 06 | [Cross-Site Scripting](../slides/11_Web_XSS.pdf) | CIS: Ch 11 | [XSS Attack Lab](../labs/xss_attack.html)
+> 10 | Apr 08 | Cross-Site Scripting cont. | CIS: Ch 11 |
 > | | | |
-> 11 | Apr 13 | Open-Source Intelligence | |
-> 11 | Apr 15 | Password Cracking - Hands On | |
+> 11 | Apr 13 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) | CIS: Ch 12 | [SQL Injection Attack Lab](../labs/sql_attack.html)
+> 11 | Apr 15 | Open-Source Intelligence | |
 > | | | |
 > 12 | Apr 20 | [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf) | CIS: Ch 24 |
 > 12 | Apr 22 | PKI | CIS: Ch 24 | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
