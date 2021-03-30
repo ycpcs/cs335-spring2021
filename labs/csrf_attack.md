@@ -21,15 +21,15 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
     - Web site hosted by the server
     - Malicious web site hosted by the attacker
 
-#### Login information
+  #### Login information
 
-User | User Name | Password
------|----------|---------
-Admin | admin | seedelgg
-Alice | alice | seedalice
-Boby | boby | seedboby
-Charlie | charlie | seedcharlie
-Samy | samy | seedsamy
+  User | User Name | Password
+  -----|----------|---------
+  Admin | admin | seedelgg
+  Alice | alice | seedalice
+  Boby | boby | seedboby
+  Charlie | charlie | seedcharlie
+  Samy | samy | seedsamy
 
 ### References
 
