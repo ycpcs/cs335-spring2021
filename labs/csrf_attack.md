@@ -21,15 +21,22 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
     - Web site hosted by the server
     - Malicious web site hosted by the attacker
 
+### Login information
+
+User | User Name | Password
+-----|----------|---------
+Admin | admin | seedelgg
+Alice | alice | seedalice
+Boby | boby | seedboby
+Charlie | charlie | seedcharlie
+Samy | samy | seedsamy
+
 ### References
 
-[Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)  
-
-[HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.  
-
-The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
-
-[SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) Cookies
+ - [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+ - [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.
+ - The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+ - [SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) Cookies
 
 ### Grading
 

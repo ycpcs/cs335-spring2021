@@ -16,6 +16,17 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 - *Extra Credit - use a secondary server*:
   - Attacker VM is hosting the malicious script. Feel free to use the CSRF Attacker site to host it.
 
+  #### Login information
+
+  User | User Name | Password
+  -----|----------|---------
+  Admin | admin | seedelgg
+  Alice | alice | seedalice
+  Boby | boby | seedboby
+  Charlie | charlie | seedcharlie
+  Samy | samy | seedsamy
+
+
 ### History of Samy's worm
 - [The MySpace Worm that Changed the Internet Forever](https://www.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
 - [https://samy.pl/myspace/](https://samy.pl/myspace/)
