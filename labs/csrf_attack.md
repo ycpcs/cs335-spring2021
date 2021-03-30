@@ -21,7 +21,7 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
     - Web site hosted by the server
     - Malicious web site hosted by the attacker
 
-### Login information
+#### Login information
 
 User | User Name | Password
 -----|----------|---------
