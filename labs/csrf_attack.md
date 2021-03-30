@@ -24,8 +24,12 @@ Additional information on the SEED project [site](https://seedsecuritylabs.org/L
 ### References
 
 [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)  
+
 [HTTP Header Live](https://addons.mozilla.org/en-US/firefox/addon/http-header-live/) Displays the HTTP header. Edit it and send it.  
+
 The HTML &lt;form&gt; Element [Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
+
+[SameSite](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Set-Cookie/SameSite) Cookies
 
 ### Grading
 
