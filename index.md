@@ -20,7 +20,6 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 ## News
 <!--
 * **May 05** &mdash; [Quiz 2](assignments/quiz2.html) Due
-* **May 05** &mdash; [Public-Key Infrastructure (PKI)](labs/pki.html) Lab Due *
 * **May 05** &mdash; [Cyber Threat](assignments/cybercrime.html) Report Due
 * **Apr 23** &mdash; [Project](assignments/project.html) Proposal Due
 * **Apr 21** &mdash; [SQL Injection Attack](labs/sql_attack.html) Lab Due
@@ -36,6 +35,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 -->
 
 * **May 06** &mdash; [Final Project](assignments/project.html) Report Due
+* **May 06** &mdash; [Public-Key Infrastructure (PKI)](labs/pki.html) Lab Due *
 * **Apr 29** &mdash; [Cybersecurity Research Project](assignments/cybercrime.html) Report Due
 * **Apr 29** &mdash; [SQL Injection Attack](labs/sql_attack.html) Lab Due
 * **Apr 20** &mdash; [Cross-Site Scripting Attack](labs/xss_attack.html) Lab Due
@@ -48,3 +48,5 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * **Feb 21** &mdash; [Shellshock](labs/shellshock.html) Attack Lab Due
 * **Feb 04** &mdash; [Ethics](assignments/ethics.html) Due
 * **Feb 02** &mdash; Welcome back!
+
+<sup>*</sup> Optional
