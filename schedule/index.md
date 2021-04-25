@@ -28,7 +28,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 6 | Mar 11 | [DNS Attacks](../slides/18_DNS_Attacks.pdf) | CIS: Ch 18 | [Local DNS Attack Lab](../labs/dns_attack.html)
 > | | | |
 > 7 | Mar 16 | DNS Security | CIS: Ch 18 |
-> 7 | Mar 18 | Quiz 1 [sample](../assignments/quiz1.html) | |
+> 7 | Mar 18 | Quiz 1 ([sample](../assignments/quiz1.html)) | |
 > | | | |
 > 8 | Mar 23 | [Arp Spoofing](../slides/ARP_Spoofing.pdf) Hands On | |
 > 8 | Mar 25 | Password Cracking - Hands On | |
@@ -42,13 +42,13 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 11 | Apr 13 | [SQL Injection](../slides/12_Web_SQL_Injection.pdf) | CIS: Ch 12 | [SQL Injection Attack Lab](../labs/sql_attack.html)
 > 11 | Apr 15 | Open-Source Intelligence | |
 > | | | |
-> 12 | Apr 20 | [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf) | CIS: Ch 24 |
-> 12 | Apr 22 | PKI | CIS: Ch 24 | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
+> 12 | Apr 20 | SQL Injection, sqlmap | CIS: Ch 12 |
+> 12 | Apr 22 | [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf)  | CIS: Ch 24 | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
 > | | | |
-> 13 | Apr 27 | Quiz 2 [sample](../assignments/quiz2.html) | |
-> 13 | Apr 29 | Cybersecurity Research Presentations | |
+> 13 | Apr 27 | PKI | CIS: Ch 24 |
+> 13 | Apr 29 | Quiz 2 ([sample](../assignments/quiz2.html)) | |
 > | | | |
-> 14 | May 04 | Guest Speaker | |
+> 14 | May 04 | Guest Speaker [Questions](guest_speaker.html) | |
 > 14 | May 06 | Course Wrap Up | Project Demo |
 > | | | |
 > 15 | May 11 | FINAL EXAM @ 7:00 PM | Project Demo |
