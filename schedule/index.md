@@ -45,7 +45,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 12 | Apr 20 | SQL Injection, sqlmap | CIS: Ch 12 |
 > 12 | Apr 22 | [Public-Key Infrastructure (PKI)](../slides/24_PKI.pdf)  | CIS: Ch 24 | [Public-Key Infrastructure (PKI) Lab](../labs/pki.html)
 > | | | |
-> 13 | Apr 27 | PKI | CIS: Ch 24 |
+> 13 | Apr 27 | PKI, mitmproxy | CIS: Ch 24 |
 > 13 | Apr 29 | Quiz 2 ([sample](../assignments/quiz2.html)) | |
 > | | | |
 > 14 | May 04 | Guest Speaker [Questions](guest_speaker.html) | |
