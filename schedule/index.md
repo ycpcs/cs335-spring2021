@@ -51,8 +51,7 @@ CIS: <a href="https://www.amazon.com/Computer-Internet-Security-Hands-Approach/d
 > 14 | May 04 | Guest Speaker [Questions](guest_speaker.html) | |
 > 14 | May 06 | Course Wrap Up | Project Demo |
 > | | | |
-> 15 | May 11 | FINAL EXAM @ 7:00 PM | Project Demo |
-> 15 | May 13 | FINAL EXAM @ 7:00 PM | Project Demo |
+> 15 | May 11 | FINAL EXAM @ 6:00 PM | Project Demo |
 
 
 **Disclaimer:** This syllabus is subject to change by the instructor.
