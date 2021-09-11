@@ -77,6 +77,7 @@ This page contains code snippets regularly used in class.
   - [cs335zone](dns\cs335_zone.html)
 - [dns_spoof.py](dns\dns_spoof.py)
 
+<!--
 #### TCP
 - Client: [tcp_client.c](tcp\tcp_client.c)
 - Server: [tcp_server.c](tcp\tcp_server.c) & [tcp_server_multi.c](tcp\tcp_server_multi.c)
@@ -104,7 +105,7 @@ This page contains code snippets regularly used in class.
   - Create packet using Scapy: [create_udp_packet.py](sniff\create_udp_packet.py)
   - Send created packet using raw sockets: [send_udp_packet.c](sniff\send_udp_packet.c)
   - Sniffing and the Spoofing ICMP using Scapy: [sniff_snoop_icmp.py](sniff\sniff_snoop_icmp.py)
-
+-->
 #### Buffer Overflow
 - Memory Layout: [mem_layout.cpp](buffer_overflow\mem_layout.cpp)
 
