@@ -14,7 +14,7 @@ This is the website for CS 335, Cybersecurity, at York College. All information 
 * [Labs](labs/index.html)
 * [Lab Setup](labs/setup.html)
 * [Resources](resources/index.html)
-* [Code Snippets](code/index.html)
+<!--* [Code Snippets](code/index.html)-->
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
 
 ## News
